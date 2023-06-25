@@ -1,17 +1,8 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <h1 align="center">Hi, I'm Jen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
-I'm a passionate student software engineer who is about to complete a rigorous bootcamp with Ada Developers Academy. My journey into the world of software development has been an exciting one, and I'm eager to continue expanding my knowledge and skills in this field.
-
-# My Portfolio
-## Eyes Repository
-<a href="https://jenniferwtam.github.io/Eye-Exercise/">Eye Movement Exercise</a>
-
-## Pac-man Repository
-<a href="https://jenniferwtam.github.io/Pacman-Exercise">Pac-man Factory</a>
-
-## Real Time Tracker Repository
-<a href="https://jenniferwtam.github.io/Real-Time-Bus-Tracking/">Real Time Bus Tracker</a>
+<h3 align="center">A software engineer in Seattle</h3>
+<img align="right" alt="woman-coding" width="450" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## Education and Background
 I have been immersed in a comprehensive curriculum at Ada Developers Academy, where I gained hands-on experience in full stack web development. Throughout the bootcamp, I've worked extensively with technologies such as Python, SQL, Flask, HTML/CSS, JavaScript, and React. This training has provided me with a solid foundation in building robust and scalable applications.
@@ -82,3 +73,18 @@ Let's collaborate, learn, and create amazing things together in the world of sof
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jenniferwtam)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jenniferwtam@gmail.com)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferwtam&show_icons=true&locale=en&layout=compact" alt="jenniferwtam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenniferwtam&show_icons=true&locale=en" alt="jenniferwtam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenniferwtam&" alt="jenniferwtam" /></p>
+
+# My Portfolio
+## Eyes Repository
+<a href="https://jenniferwtam.github.io/Eye-Exercise/">Eye Movement Exercise</a>
+
+## Pac-man Repository
+<a href="https://jenniferwtam.github.io/Pacman-Exercise">Pac-man Factory</a>
+
+## Real Time Tracker Repository
+<a href="https://jenniferwtam.github.io/Real-Time-Bus-Tracking/">Real Time Bus Tracker</a>
