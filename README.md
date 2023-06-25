@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name]!
+# Hi, I'm Jen!
 I'm a passionate student software engineer who is about to complete a rigorous bootcamp with Ada Developers Academy. My journey into the world of software development has been an exciting one, and I'm eager to continue expanding my knowledge and skills in this field.
 
 # My Portfolio
-#E34F26
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 ## Eyes Repository
 <a href="https://jenniferwtam.github.io/Eye-Exercise/">Eye Movement Exercise</a>
 
@@ -22,6 +22,6 @@ One particular area that has captured my interest is Artificial Intelligence (AI
 I strongly believe in the power of open source software and its ability to bring together a community of passionate developers. I am actively contributing to open source projects, including collaborating on GitHub repositories. By contributing to open source, I am not only sharpening my skills but also giving back to the community that has supported my growth.
 
 ## Let's Connect!
-I am always eager to connect with fellow developers, industry professionals, and enthusiasts who share a passion for software engineering, AI, and ML. Feel free to reach out to me via email at your-email@example.com, connect with me on LinkedIn, or explore my projects on GitHub.
+I am always eager to connect with fellow developers, industry professionals, and enthusiasts who share a passion for software engineering, AI, and ML. Feel free to reach out to me via email at jenniferwtam@gmail.com, connect with me on [LinkedIn](https://www.linkedin/in/jenniferwtam.com), or explore my projects on GitHub.
 
 Let's collaborate, learn, and create amazing things together in the world of software engineering!
