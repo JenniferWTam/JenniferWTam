@@ -1,5 +1,3 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
 <h1 align="center">Hi, I'm Jen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 <h3 align="center">A software engineer in Seattle</h3>
 <img align="right" alt="woman-coding" width="450" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
