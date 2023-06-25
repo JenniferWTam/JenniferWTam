@@ -50,7 +50,7 @@ Let's collaborate, learn, and create amazing things together in the world of sof
 
 ### Frameworks
 
-![flask]([https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white))
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
