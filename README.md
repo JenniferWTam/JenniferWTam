@@ -23,7 +23,7 @@ One particular area that has captured my interest is Artificial Intelligence (AI
 I strongly believe in the power of open source software and its ability to bring together a community of passionate developers. I am actively contributing to open source projects, including collaborating on GitHub repositories. By contributing to open source, I am not only sharpening my skills but also giving back to the community that has supported my growth.
 
 ## Let's Connect!
-I am always eager to connect with fellow developers, industry professionals, and enthusiasts who share a passion for software engineering, AI, and ML. Feel free to reach out to me via ![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) at jenniferwtam@gmail.com, connect with me on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin/in/jenniferwtam.com" />, or explore my projects on GitHub.
+I am always eager to connect with fellow developers, industry professionals, and enthusiasts who share a passion for software engineering, AI, and ML. Feel free to reach out to me via <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:jenniferwtam@gmail.com" />, connect with me on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin/in/jenniferwtam.com" />, or explore my projects on GitHub.
 
 Let's collaborate, learn, and create amazing things together in the world of software engineering!
 
