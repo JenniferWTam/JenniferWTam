@@ -1,6 +1,6 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-# Hi, I'm Jen!
+# Hi, I'm Jen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 I'm a passionate student software engineer who is about to complete a rigorous bootcamp with Ada Developers Academy. My journey into the world of software development has been an exciting one, and I'm eager to continue expanding my knowledge and skills in this field.
 
 # My Portfolio
