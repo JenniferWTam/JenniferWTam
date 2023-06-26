@@ -78,6 +78,12 @@ Let's collaborate, learn, and create amazing things together in the world of sof
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenniferwtam&" alt="jenniferwtam" /></p>
 
 # My Portfolio
+## React Chatlog
+<a href="https://jenniferwtam.github.io/react-chatlog/">React Chatlog</a>
+
+## Weather Report
+<a href="https://jenniferwtam.github.io/weather-report/">Weather Report</a>
+
 ## Eyes Repository
 <a href="https://jenniferwtam.github.io/Eye-Exercise/">Eye Movement Exercise</a>
 
