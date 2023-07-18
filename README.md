@@ -23,7 +23,7 @@ Let's collaborate, learn, and create amazing things together in the world of sof
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![swiftui-version](https://img.shields.io/badge/swiftui-beta-brightgreen)](https://developer.apple.com/documentation/swiftui)
+[![swiftui-version](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ### Front-End Development
